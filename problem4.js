@@ -16,7 +16,7 @@ const result1 = ["1", {num:2}, NaN]
 const result2 = [1, 2, -3]
 const result3 ={num: [1, 2, 3]}
 
-// console.log(deleteInvalids(result)); 
-// console.log(deleteInvalids(result1)); 
-// console.log(deleteInvalids(result2)); 
-// console.log(deleteInvalids(result3)); 
+ console.log(deleteInvalids(result)); 
+ console.log(deleteInvalids(result1)); 
+ console.log(deleteInvalids(result2)); 
+ console.log(deleteInvalids(result3)); 
